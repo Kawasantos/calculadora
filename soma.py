@@ -1,0 +1,5 @@
+nome = str(input('qual é seu nome ?')) 
+n1 = int(input('Por favor, digite um numero:'))
+n2 = int(input('Por favor, digite outro numero:'))
+soma = (n1 + n2)
+print(f'{nome} o valor total foi {soma}')

@@ -1,0 +1,5 @@
+casa = float(input('valor do imovel: R$'))
+salario = float(input('salario do comprador: R$'))
+anos = int(input('quantos anos de finaciamento?'))
+prestacao = casa / (anos * 12)
+print(f'o vaor {prestacao}')
