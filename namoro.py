@@ -1,6 +1,7 @@
-pedido = str(input('quer namora comigo ?')).upper().strip
-if pedido == 'sim':
-    print("ESTOU MUITO FELIZ, MEU AMOR :)")
+pedido = input('Quer namorar comigo? ').strip().upper()
+
+if pedido == 'SIM':
+    print("Estou muito feliz, meu amor :)")
 else:
-    print('nem queria mesmo, so estava testando o codigo')
-    print('RAPARIGA')
+    print('Nem queria mesmo, só estava testando o código.')
+ 
