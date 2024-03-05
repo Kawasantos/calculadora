@@ -5,4 +5,4 @@ if nome == 'kawa':
     
 else:
     print('nossa que nome mais comun')
-print('seja-bem vindo')
+print(f'seja-bem vindo')
